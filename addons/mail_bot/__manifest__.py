@@ -2,10 +2,10 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'OdooBot',
+    'name': 'CloudBot',
     'version': '1.2',
     'category': 'Productivity/Discuss',
-    'summary': 'Add OdooBot in discussions',
+    'summary': 'Add CloudBot in discussions',
     'description': "",
     'website': 'https://www.odoo.com/page/discuss',
     'depends': ['mail'],
